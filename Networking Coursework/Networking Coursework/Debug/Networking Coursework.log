@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\andrew\desktop\networking coursework\networking coursework\networking coursework\main.cpp(77): warning C4101: 'mode': unreferenced local variable
+  Networking Coursework.vcxproj -> C:\Users\Andrew\Desktop\Networking Coursework\Networking Coursework\Debug\Networking Coursework.exe
+  Networking Coursework.vcxproj -> C:\Users\Andrew\Desktop\Networking Coursework\Networking Coursework\Debug\Networking Coursework.pdb (Full PDB)
